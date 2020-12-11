@@ -1,0 +1,30 @@
+{
+	"Logs": [{
+			"ID": "0001",
+			"TicketID": "234",
+			"Desc": "PT-Süd",
+			"createdAt": "2019-09-20T12:00:00.000Z",
+			"updatedAt": "2019-09-20T12:00:00.000Z",
+			"createdBy": "John Doe",
+			"UpdatedBy": "Demi Doe"
+		},
+		{
+			"ID": "0001",
+			"TicketID": "234",
+			"Desc": "PT-Süd",
+			"createdAt": "2019-09-20T12:00:00.000Z",
+			"updatedAt": "2019-09-20T12:00:00.000Z",
+			"createdBy": "John Doe",
+			"UpdatedBy": "Demi Doe"
+		},
+		{
+			"ID": "0001",
+			"TicketID": "234",
+			"Desc": "PT-Süd",
+			"createdAt": "2019-09-20T12:00:00.000Z",
+			"updatedAt": "2019-09-20T12:00:00.000Z",
+			"createdBy": "John Doe",
+			"UpdatedBy": "Demi Doe"
+		}
+	]
+}

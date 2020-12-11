@@ -1,0 +1,39 @@
+{
+	"Tickets": [{
+			"ID": "0001",
+			"CISMTicketID": "234",
+			"Status": "Open",
+			"Desc": "PT-Süd",
+			"BusinessAreaID": "001:",
+			"TemplateID": "001:",
+			"createdAt": "2019-09-20T12:00:00.000Z",
+			"updatedAt": "2019-09-20T12:00:00.000Z",
+			"createdBy": "John Doe",
+			"UpdatedBy": "Demi Doe"
+		},
+		{
+			"ID": "0002",
+			"CISMTicketID": "12345",
+			"Status": "Open",
+			"Desc": "PT-Süd",
+			"BusinessAreaID": "001:",
+			"TemplateID": "001:",
+			"createdAt": "2019-09-20T12:00:00.000Z",
+			"updatedAt": "2019-09-20T12:00:00.000Z",
+			"createdBy": "John Doe",
+			"UpdatedBy": "Demi Doe"
+		},
+		{
+			"ID": "0003",
+			"CISMTicketID": "123456",
+			"Status": "Open",
+			"Desc": "PT-Süd",
+			"BusinessAreaID": "001:",
+			"TemplateID": "001:",
+			"createdAt": "2019-09-20T12:00:00.000Z",
+			"updatedAt": "2019-09-20T12:00:00.000Z",
+			"createdBy": "John Doe",
+			"UpdatedBy": "Demi Doe"
+		}
+	]
+}
