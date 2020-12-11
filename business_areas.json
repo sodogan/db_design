@@ -1,0 +1,93 @@
+{
+	"BusinessAreas": [{
+			"ID": "0001",
+			"Name": "Basis",
+			"Desc": "PT-Süd",
+			"Type": "Technical"
+		},
+		{
+			"ID": "0002",
+			"Name": "ABAP",
+			"Desc": "PCS",
+			"Type": "Technical"
+		},
+		{
+			"ID": "0003",
+			"Name": "Middleware",
+			"Desc": "PCC",
+			"Type": "Technical"
+		},
+		{
+			"ID": "0004",
+			"Name": "Evobuus ITI",
+			"Desc": "PT-Nord",
+			"Type": "Technical"
+		},
+		{
+			"ID": "0005",
+			"Name": "Evobus FI",
+			"Desc": "AMG",
+			"Type": "Technical"
+		},
+		{
+			"ID": "0006",
+			"Name": "PLPQ/Assembly BI",
+			"Desc": "MBT",
+			"Type": "Technical"
+		},
+		{
+			"ID": "0007",
+			"Name": "SD",
+			"Desc": "MBT",
+			"Type": "Functional"
+		},
+		{
+			"ID": "0008",
+			"Name": "MM",
+			"Desc": "MBT",
+			"Type": "Functional"
+		},
+		{
+			"ID": "0009",
+			"Name": "WM",
+			"Desc": "MBT",
+			"Type": "Functional"
+		},
+		{
+			"ID": "0010",
+			"Name": "SD/MM",
+			"Desc": "MBT",
+			"Type": "Functional"
+		},
+		{
+			"ID": "0011",
+			"Name": "APO/PP",
+			"Desc": "MBT",
+			"Type": "Functional"
+		},
+		{
+			"ID": "0012",
+			"Name": "QM",
+			"Desc": "MBT",
+			"Type": "Functional"
+		},
+		{
+			"ID": "0013",
+			"Name": "BI",
+			"Desc": "MBT",
+			"Type": "Functional"
+		},
+		{
+			"ID": "0014",
+			"Name": "FICO",
+			"Desc": "MBT",
+			"Type": "Functional"
+		},
+		{
+			"ID": "0015",
+			"Name": "MM/WM",
+			"Desc": "MBT",
+			"Type": "Functional"
+		}
+	]
+}

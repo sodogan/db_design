@@ -1,0 +1,41 @@
+{
+	"Templates": [{
+			"ID": "0001",
+			"Name": "PT-Süd",
+			"Desc": "PT-Süd",
+			"Instructions": "Easy steps:"
+		},
+		{
+			"ID": "0002",
+			"Name": "PCS",
+			"Desc": "PCS",
+			"Instructions": "Easy steps:"
+		},
+		{
+			"ID": "0003",
+			"Name": "PCC",
+			"Desc": "PCC",
+			"Instructions": "Easy steps:"
+		},
+		{
+			"ID": "0004",
+			"Name": "PT-Nord",
+			"Desc": "PT-Nord",
+			"Instructions": "Easy steps:"
+		},
+		{
+			"ID": "0005",
+			"Name": "AMG",
+			"Desc": "AMG",
+			"Instructions": "Easy steps:"
+		},
+		{
+			"ID": "0006",
+			"Name": "MBT",
+			"Desc": "MBT",
+			"Instructions": "Easy steps:"
+		}
+	]
+
+
+}

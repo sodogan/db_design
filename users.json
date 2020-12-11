@@ -1,0 +1,60 @@
+{
+	"Users": [
+	  {
+		"ID": "0001",
+		"FirstName": "John",
+		"LastName": "Doe",
+		"EmailAddress": "tod@gmail.com",
+		"Mobile": "066368430029",
+		"AlternateMobile": "076368430029",
+		"Role": "tod",
+		"Manager": "Atilla Adıguzel",
+		"IsExternal": "true",
+		"IsActive": "true",
+		"TemplateID": "0001",
+		"BusinessAreaID": "0001"
+	  },
+	  {
+		"ID": "0002",
+		"FirstName": "Doe",
+		"LastName": "Junior",
+		"EmailAddress": "mod@gmail.com",
+		"Mobile": "066368430029",
+		"AlternateMobile": "076368430029",
+		"Role": "mod",
+		"Manager": "Atilla Adıguzel",
+		"IsExternal": "true",
+		"IsActive": "true",
+		"TemplateID": "0002",
+		"BusinessAreaID": "0002"
+	  },
+	  {
+		"ID": "0003",
+		"FirstName": "Anyone",
+		"LastName": "Junior",
+		"EmailAddress": "admin@gmail.com",
+		"Mobile": "066368430029",
+		"AlternateMobile": "076368430029",
+		"Role": "admin",
+		"Manager": "Atilla Adıguzel",
+		"IsExternal": "true",
+		"IsActive": "true",
+		"TemplateID": "0001",
+		"BusinessAreaID": "0002"
+	  },
+	  {
+		"ID": "0004",
+		"FirstName": "Anyone",
+		"LastName": "Junior",
+		"EmailAddress": "mim@gmail.com",
+		"Mobile": "066368430029",
+		"AlternateMobile": "076368430029",
+		"Role": "mim",
+		"Manager": "Scwarzmuller",
+		"IsExternal": "true",
+		"IsActive": "true",
+		"TemplateID": "0001",
+		"BusinessAreaID": "0002"
+	  }
+	]
+  }
